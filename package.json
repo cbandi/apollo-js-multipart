@@ -1,8 +1,10 @@
 {
   "name": "apollo-js-multipart",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Enhances Apollo Client for intuitive file uploads via GraphQL mutations.",
   "main": "index.js",
+  "repository": "https://github.com/cbandi/apollo-js-multipart",
+  "homepage": "https://github.com/cbandi/apollo-js-multipart/blob/master/README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
