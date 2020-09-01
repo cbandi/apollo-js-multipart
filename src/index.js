@@ -4,7 +4,7 @@ import { ApolloLink, Observable } from 'apollo-link';
 import { createUploadLink } from 'apollo-upload-client';
 import { BatchHttpLink } from 'apollo-link-batch-http';
 import options from 'options';
-///changes
+///changes - form terminal
 
 const cache = new InMemoryCache({
   cacheRedirects: {}
